@@ -3,7 +3,20 @@
 ![image](https://github.com/AroopGit/TheraMind/assets/124480700/55bb034e-bdfd-440f-a802-840196683a1d)
 
 
+# Key Features:
+User Accounts: Secure login system for personalized experience and access control.
+Mental Health Resource Library: Searchable database with articles, videos, and links to external resources curated by mental health professionals.
+Community Forum: Moderated forum for open discussions and peer support, fostering a sense of community.
+Live Chat: Secure chat feature for real-time support and connection with peers facing similar challenges.
+Personal Blog: Platform for users to share their stories and coping strategies anonymously or under a pseudonym, promoting empathy and inspiration.
+Content Management System (CMS): Easy-to-use backend interface for website administrators and mental health professionals to add, edit, and manage resources and blog content.
+Security: Secure user authentication, data encryption, and robust moderation tools to ensure a safe and supportive environment.
 
+
+# Additional Considerations:
+Accessibility: Implementing features like screen reader compatibility, alt text for images, and clear navigation to cater to users with disabilities.
+Multilingual Support: Expanding reach to a wider audience by offering the website in multiple languages.
+Integration with Mental Health Services: Providing directories of local therapists, hotlines, and support groups for further assistance
 
 
 
