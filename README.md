@@ -1,3 +1,12 @@
+![image](https://github.com/AroopGit/TheraMind/assets/124480700/943e1da1-1477-4d90-9de2-140b007e4e0c)
+![image](https://github.com/AroopGit/TheraMind/assets/124480700/bfc5a6ad-0f56-4e8c-8b35-94a93d8ad90e)
+![image](https://github.com/AroopGit/TheraMind/assets/124480700/55bb034e-bdfd-440f-a802-840196683a1d)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
