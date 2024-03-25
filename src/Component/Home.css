@@ -1,0 +1,8 @@
+.col-chat{
+    background-color: var(--lighter);
+    margin-top: 4em;
+}
+.col-home{
+    margin-top: 4em;
+    background-color: var(--lighter);
+}

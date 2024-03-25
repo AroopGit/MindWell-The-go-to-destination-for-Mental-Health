@@ -1,0 +1,22 @@
+.vh-100{
+    background-color: var(--lighter);
+}
+.card{
+    background-color: var(--light);
+    
+}
+.h1{
+    color: var(--dark) !important;
+}
+.form-control{
+    background-color: var(--lighter) !important;
+}
+.fas{
+    color: var(--dark);
+}
+.form-label, .form-check-label{
+    color: var(--gray)
+}
+.form-check-input{
+    cursor: pointer;
+}

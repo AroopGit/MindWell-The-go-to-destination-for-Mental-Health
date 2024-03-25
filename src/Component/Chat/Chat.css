@@ -1,0 +1,30 @@
+.chat{
+    height: 93vh;
+    width: 25%;
+    background-color: var(--lighter);
+    position: fixed;
+    overflow-x: visible;
+}
+.chat-row{
+    margin-top: 20px !important;
+    width: 90%;
+}
+.title{
+    color: var(--dark) !important;
+}
+textarea{
+    color: var(--dark) !important;
+    border: 2px solid var(--dark) !important;
+    width: 90% !important;
+    margin: 10px !important;
+    padding: 10px;
+}
+.btn{
+    background-color: var(--dark);
+    color: white;
+}
+.image{
+    width: 1170px;
+    margin-left:370px;
+    margin-top:-500px;
+}

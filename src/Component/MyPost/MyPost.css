@@ -1,0 +1,17 @@
+.card{
+    background-color: var(--dark) !important;
+}
+.card-title{
+    color: white !important;
+}
+.card-body{
+    background-color: var(--light);
+}
+.fa-pen{
+    cursor: pointer;
+    color: var(--dark) ;
+}
+.fa-trash-can{
+    cursor: pointer;
+    color: rgb(159, 9, 9) ;
+}

@@ -1,0 +1,82 @@
+.resources-page{
+    width: fit-content;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1698094276096-05782e47238a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.resource-list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.res-card{
+    border-radius: 14px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    color: white;
+    background-color: var(--lighter) !important;
+}
+.resource-item{
+    margin-left:3%;
+    min-width: 25%;
+    max-width: 28%;
+    min-height: 600px;
+    max-height: 700px;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+.card-image{
+    align-items: center;
+    justify-content: center;
+    margin-left: 4.5%;
+    min-width: 75%;
+    max-width: 90%;
+    max-height: 450px;
+    margin-top:5%;
+    margin-bottom: 10%;
+    border-radius: 7px;
+}
+#heading{
+    color: whitesmoke;
+    font-family: poppins;
+}
+.resources-page h1{
+    color: var(--dark);
+    padding-top: 50px;
+    margin-left: 38%;
+    font-family: poppins;
+}
+h2{
+    margin-left: 5%;
+    margin-top: 30px;
+    font-size: 32px;
+    font-family: poppins;
+}
+.blogs h2{
+    color: var(--dark);
+}
+.card h3{
+    font-size: 22px;
+    padding: 20px;
+    font-family: poppins;
+}
+.res-card p{
+    font-size: 18px;
+    text-align: center;
+    font-family: poppins;
+}
+.res-card a{
+    padding: 2%;
+    text-decoration: none;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    background-color: black;
+    margin: 3%;
+    color: white;
+}

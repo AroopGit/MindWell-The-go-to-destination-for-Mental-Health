@@ -1,0 +1,49 @@
+.post-section{
+    height: 80vh;
+    width: 23%;
+    padding: 10px;
+    background-color: var(--lighter);
+    position: fixed;
+    overflow-x: visible;
+    margin-top: 30px !important;
+    right: 0;
+}
+/* post-section{
+    height: 70vh;
+    width: 23%;
+    padding: 10px;
+    background-color:rgba(245, 245, 245, 0.721);
+    position: fixed;
+    overflow-x: visible;
+    margin-top: 30px !important;
+    top:30%;
+    right: 0%;
+    border-radius: 6px;
+    color: black;
+} */
+.post-image{
+    height: 80%;
+    width: 70%;
+    margin-left: 10px;
+}
+.btn-danger{
+    border: none;
+}
+form{
+    width: 90%;
+}
+.post-heading{
+    color: var(--dark);
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.caption{
+    color: var(--dark) !important;
+    border: 2px solid var(--dark) !important;
+    width: 90% !important;
+    margin: 10px !important;
+    padding: 10px;
+    
+}
+
