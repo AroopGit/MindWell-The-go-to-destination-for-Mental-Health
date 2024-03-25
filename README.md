@@ -1,7 +1,3 @@
-# TheraMind
-A comprehensive online platform designed to empower individuals on their mental health journeys. It offers a safe space to learn, connect, and share experiences.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
